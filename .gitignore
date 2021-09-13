@@ -1,2 +1,2 @@
 /venv
-.pre-commit-config.yaml
+__pycache__/
