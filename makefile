@@ -1,2 +1,2 @@
-make install:
+install:
 	python -m pip install -r requirements.txt
