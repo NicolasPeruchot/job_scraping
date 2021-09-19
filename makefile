@@ -1,6 +1,6 @@
 install:
 	python -m pip install -r requirements.txt
+	pre-commit install
 
 job:
-	python -m scrapping.the_hub
-	python -m scrapping.HF
+	streamlit run Offers.py
