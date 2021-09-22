@@ -1,2 +1,2 @@
 countries = ["DK", "SE", "NO", "FI"]
-matches = ["part-time", "junior", "internship"]
+matches = ["part-time", "junior", "internship", "student"]
